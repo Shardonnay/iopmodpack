@@ -16,6 +16,11 @@ hash = "ef33cbb395c6134bbe46914da62f9690d89cb5c35b827ca23dd0870a61683d5f"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "8dde79bba7cacff03bd65e6b896d939fc7c2e02a86c23b693d2e0b678672bdd2"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "634bc593b540a12cf72a81dbcd924717eade71f93cda23b55b1b389257bec987"
 metafile = true
@@ -76,13 +81,58 @@ hash = "218660e51945b076e40db1bf7a458d72f0d8d1c8f8c4a400d9bbbee7023f428d"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "fcffeffc0b8f4fb24c213e7d69449fca45ef80c8ed618409996e5b2f0f751d2c"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "d49b12a00673ee8de5b5df8ec5956bf81da551eff4d2a38b230a089b765f2c42"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "84acb627f6b33af289d26d1622a61b28de99306eb863d679c865f6313de49e5d"
 metafile = true
 
 [[files]]
+file = "mods/ecologics.pw.toml"
+hash = "116d166045e099a352ee36c214e48b5455f21a98ef980c3e89d398c00fda738a"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "18ff135f3f902bd5350f6f8a7117ef4c7bfc106cf34ad1115722bcdff154971b"
+metafile = true
+
+[[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "29fffe2f1d0f656de83ba0731233a20f664dc97d0b89918e609fc0b190a3fab1"
+metafile = true
+
+[[files]]
+file = "mods/endremastered.pw.toml"
+hash = "d79818e801019eeaedc8a3188d0d1ed778c9d261c6fdda12c20470e5b07b8994"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5a23e6eae5dedec0480a03c390846c64e6c22c341bc90d898fb661f40c9b8135"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "adcd67c419f4c88858298958287b1658e9a81b7d50c6794769ca01c8b856d3a6"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "107e17092cb624d106bddc63f2165f5e0461ca910e365a864bbae4c4f0de539d"
 metafile = true
 
 [[files]]
@@ -93,6 +143,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ea72f1530367a4f8c347e197119188d25d876f3fe4ac19c1eb0b4c2ad23ce48c"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "a0121fbd3ee89f278267af2c25c71d1b32ab1648f6c9a134dc89e6288b3a2a23"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "a404048488d15bc7dba9ddd1728ea1df9b97a703775051aa188b17f02289bcfb"
 metafile = true
 
 [[files]]
@@ -111,13 +171,53 @@ hash = "9cf4f96723390d33bf74c5e5c4679ca0f9c304865333bd3e048bac671be7d2e8"
 metafile = true
 
 [[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "29abe36be13fe414e13125140f1c4fe373f7daf79a11ba511e0f77a47ea7f946"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "89420f657cec1038646f75531ae388e92d27c51c84b1f121e935ae5aecf995be"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "7ba4d1d18d87636fe6a59791c3c23c91eb03037a74e14b130e2157f8189b9f0e"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7fbe3225c134e823a07f3aecedace39fe866f327671ecca928f134399b94008d"
+metafile = true
+
+[[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "0ba45c4cf0d0c605841b708a23417668e1ee4c9860a1d4572b122d6348c113ed"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "b821efc793dd7308be6788095bea26a2a0479f9a3ddc3b0d6a6a2af351153fc0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b98744192d8b63a91361eb7bdec29a03c2cb95fc700b879826c27b9dc7af28ec"
+metafile = true
+
+[[files]]
+file = "mods/moogs-end-structures.pw.toml"
+hash = "95859f07cf03c817f0b6eed1f6c84d7c42666566aa3c541566413d02d924636f"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "1d8e0ac292aded9ec2e11845dde5d4d444d2e3a0566b40bcf03fd0a1f638e226"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "b1bea73b8b0234022bc75d0b6e9e0547803c12c0a9345912293aa823be4602f1"
 metafile = true
 
 [[files]]
@@ -136,6 +236,11 @@ hash = "7811b7b4781993dbb63e303a4ff21bacd555b3b56d1ad979e7561d1df0101ebb"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "98341e9765f45c38727a53e93600dbc25c678cf740a4a398e723fb07d5f49fcc"
 metafile = true
@@ -148,6 +253,21 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "00decabe50870a59262d3a50ac05e7f608439490a3285a6c979266039c2fe911"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "c361a2f6b24af6723242af19024fef2afe18616de2192e757bd2b8b41f75a806"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "89d21f5da7fea8b1197c6e8e5215d45f7400844560e0f7c179d3c6145bd36a95"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
@@ -193,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "05065c99b76965afd2fbe232651517664898216646e657f1a2c6121e55730179"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "666de5e89e4537b9b758d642952efbd67c25d9d3a88a6ebd481962508851d001"
 metafile = true
 
 [[files]]
