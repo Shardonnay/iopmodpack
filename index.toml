@@ -6,6 +6,11 @@ hash = "580b2a6104e9752febcba6c6906b4159ed87af0e06459c635ca75c9e6ca9adc2"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "59c9a1f969edd0ba1da9ba5ad6975951513225d0304a692c3d4c862e2360940c"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "90a4a53ba57a0a73c50f854d26e10bcb05cbc524a3e5c563d9a424638a5a55f6"
 metafile = true
@@ -76,6 +81,11 @@ hash = "218660e51945b076e40db1bf7a458d72f0d8d1c8f8c4a400d9bbbee7023f428d"
 metafile = true
 
 [[files]]
+file = "mods/deep-aether.pw.toml"
+hash = "7aa415b7ead3466d0845d147b52a58df023c5c9753be197408dcaacfb525d079"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "84acb627f6b33af289d26d1622a61b28de99306eb863d679c865f6313de49e5d"
 metafile = true
@@ -111,8 +121,18 @@ hash = "9cf4f96723390d33bf74c5e5c4679ca0f9c304865333bd3e048bac671be7d2e8"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "be345dd7f27822ede8ff64a972e36e12befef5b0c0283dd45b683475cf6ca6df"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "7ba4d1d18d87636fe6a59791c3c23c91eb03037a74e14b130e2157f8189b9f0e"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "540706ab9db0907199fcc08ac62c8f0b291f7ce5b01a90e426f0b6c76c76b51c"
 metafile = true
 
 [[files]]
@@ -133,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "7811b7b4781993dbb63e303a4ff21bacd555b3b56d1ad979e7561d1df0101ebb"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "3db5943419e6b6f4e33946266be8797230434573bc68dbe3a77d72f19001ae0c"
 metafile = true
 
 [[files]]
