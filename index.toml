@@ -21,11 +21,6 @@ hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
 metafile = true
 
 [[files]]
-file = "mods/artifacts.pw.toml"
-hash = "5c53336a2e46a334336a2a40e3fe18af4656a76e66b83b306362962136c92d8c"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "2ea3d87ffc2806e4bcb6ee9f5a35bdb4588b29030aba235dc7616d1833349d5b"
 metafile = true
@@ -38,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "eb0d74103b07e202b36d7e7e0957afc054d9622acf8ecb738e5856b5144a7b3b"
+metafile = true
+
+[[files]]
+file = "mods/better-beds.pw.toml"
+hash = "244f3cd7c2c8d676926bf8b7b7fcbee398caf99e849acdef037e105cafe42f50"
 metafile = true
 
 [[files]]
@@ -121,8 +121,18 @@ hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "539df193744359182e929d5648aeb96c58a1bdaa5edb0d0370d42a2d68e18eec"
+metafile = true
+
+[[files]]
 file = "mods/dungeon-and-taverns.pw.toml"
 hash = "43f477c4e79c55347f9cae8805fd8097b3c79afea83c47aa82b9059366f25b94"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7abb69378bbeb4e07a6573f5c3ec8c362b1a14c3a70f67a22a57e844547d7cd2"
 metafile = true
 
 [[files]]
@@ -166,6 +176,11 @@ hash = "475bd3dc8729184dab6a090f6645b1c30bdc1043386fd25968de64aa969f0b47"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities.pw.toml"
+hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
+metafile = true
+
+[[files]]
 file = "mods/equipment-compare-fabric.pw.toml"
 hash = "050f3778bd7e97d835c9ac45287df606d48da2f4e8e201dc979bd616aca73325"
 metafile = true
@@ -201,6 +216,11 @@ hash = "c58e59a27ca8115942604422cad734b59eeef84c4700a54f3bea567ac1f3cc45"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
 hash = "8fe2cb6a509cd81553bd5b20f19585decf8ca2beb3ae6098ce8b65517873e6b7"
 metafile = true
@@ -226,6 +246,11 @@ hash = "32ee7a7170ed798a1e4d8b4bd98d3659566615f8c189f70ea58419a39dce1c42"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "4d126f78c43ca759abfae9b23bfa1cc24a05aaea89923007ad7382f128417b57"
+metafile = true
+
+[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "2c1bac5d5bc9061449e91525e3564883743273cbe2eade645a2a70e8c38a9927"
 metafile = true
@@ -233,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "e3c079daa4a7b9c561291d89a4931dbec2c556050c93280aa1f95e7779eec330"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0cfbe1742c6aa1bbde966ca88dae20b5fa76b6e920c7cd67356d412b8514d2af"
 metafile = true
 
 [[files]]
@@ -261,6 +291,16 @@ hash = "6485576ef1f09940a84fa1ecb86c68867d1ae8870041d6b622d9c1fb6989b6e2"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "75e935b63073ad2104c50baead0898b07ff60c0f465adf796f4a4960db8eae09"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "ca55aba75e2cb1da88679cf6919a99f25634c9a691df85b6139b684c67b3110c"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "3ba3f3ac64c3c309f1f345349f3b7a91fb2ae2879ab5498d6e5746af357a72dc"
 metafile = true
@@ -273,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/mo-glass.pw.toml"
 hash = "5383f39c26454484a6a76265fa79aead51b39ef75b36585232b077102c778d67"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "150b043e030da14e99ea5805c5497fe5af3981fc52d22fa1f53e4d0583449ba5"
 metafile = true
 
 [[files]]
@@ -303,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "7b8b7a97444d8f10d43145beafc235b6dd167a120cea9562f3c7b754049b0f5b"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "91a34cb72ff22aaf1e12d1741782b73af9ad179255d9156b7c2c7a5f878ba1ce"
 metafile = true
 
 [[files]]
@@ -366,6 +416,11 @@ hash = "fb5c634dcbbeb81044aa6eac2f95ad82b6a885a5d0bd097b71b42a9973f98525"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
+metafile = true
+
+[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "bcd20f96626401ce2deaa104187952027372203cce06ce02cb830318efc37eeb"
 metafile = true
@@ -403,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "0d61f505828c2ddbe43c120e2e2962e777835a9a73d25ddbdd6d9100a8a2d952"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+hash = "f9e80183a18b139c33017245283242612c04affe7d13304dd8788710814111fd"
 metafile = true
 
 [[files]]
