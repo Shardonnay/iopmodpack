@@ -81,6 +81,11 @@ hash = "ae11fe7c63207b7257ecb782d421655c6f56adb551b78ad430066edc94bee3b1"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "8459128658c0148ba1b89d87b4c86bd62f236c73cff860090eba0b08e49ae9ce"
 metafile = true
@@ -116,8 +121,18 @@ hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "13f1580427f5255b261446351e24ee1865adf71a6c846b7b027c321dd787d3cd"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
+metafile = true
+
+[[files]]
+file = "mods/customizable-elytra.pw.toml"
+hash = "22963e7f94a38dc3b0b0509cda70aaa457f6f2b0e5d6ada0cddc3a35a2c31a7f"
 metafile = true
 
 [[files]]
@@ -148,6 +163,16 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "ec2f847977196cfdbde04c23cb9d0389ef86b7b2276397b4bcf5e0b068280c96"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "49b988bf9af6cc2138aeba46e121c3865680cdf125d74af0c47466be9db5fa12"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "bec04aef3db8e47dc7a1d6f3a214108773df4276dad28bb013309e7b006b817b"
 metafile = true
 
 [[files]]
@@ -281,6 +306,11 @@ hash = "bc64bb0f72acc944a8f6fd48e6147c698efd0456d6c63c27847bcaa896addd84"
 metafile = true
 
 [[files]]
+file = "mods/item-placer.pw.toml"
+hash = "eb3307953fd4be7bfde6369f5d313b3000ac976d51b5c9252bc8dd15f1e5b69a"
+metafile = true
+
+[[files]]
 file = "mods/items-displayed.pw.toml"
 hash = "45b352a5c16fcfea21620cfa03b644010644afac775eb0417abc92b3c61f09d4"
 metafile = true
@@ -316,6 +346,11 @@ hash = "5383f39c26454484a6a76265fa79aead51b39ef75b36585232b077102c778d67"
 metafile = true
 
 [[files]]
+file = "mods/model-gap-fix.pw.toml"
+hash = "bf637761441cee7d1e7a2dd33c40079e7bbced018308a3ce223b6267816e60ba"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "150b043e030da14e99ea5805c5497fe5af3981fc52d22fa1f53e4d0583449ba5"
 metafile = true
@@ -338,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
+metafile = true
+
+[[files]]
+file = "mods/no-feather-trample.pw.toml"
+hash = "2d6094790b3e47a177f0b70caadf3a55865acc5e067886b4e409547fa396010e"
 metafile = true
 
 [[files]]
