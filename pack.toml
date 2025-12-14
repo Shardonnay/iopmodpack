@@ -1,13 +1,13 @@
-name = "IOP Jai Hind"
-author = "Willi1000"
-version = "1.0.0"
+name = "iop-fabric"
+author = "willisuper2000"
+version = "0.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c4f512da97468f802e7d5f9c7b32dd031284dfc41847dcd66e2d8f585c403d9a"
+hash = "abfe75ea2ea8f6cb50b4f20172213411bb7340f6a172953bb4e40c9c88ab7fb1"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.216"
+fabric = "0.18.2"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Item placer"
+filename = "itemplacer-fabric-1.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78e2e95fabf24c96ac853ac854e05dca60d01f94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5649520
+project-id = 1024631

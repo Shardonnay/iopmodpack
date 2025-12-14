@@ -1,0 +1,13 @@
+name = "Create: Ironworks"
+filename = "create_ironworks-3.5.0-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "151ee28c788eb717df2d7c45ef9f64864909bc35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6289891
+project-id = 1068172
