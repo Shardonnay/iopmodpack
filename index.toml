@@ -456,11 +456,6 @@ hash = "fb5c634dcbbeb81044aa6eac2f95ad82b6a885a5d0bd097b71b42a9973f98525"
 metafile = true
 
 [[files]]
-file = "mods/starlight.pw.toml"
-hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
-metafile = true
-
-[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "bcd20f96626401ce2deaa104187952027372203cce06ce02cb830318efc37eeb"
 metafile = true
