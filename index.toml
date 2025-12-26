@@ -256,6 +256,11 @@ hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "96ac089f589655c8d636871f22b730f04bb5a7686d7e03aeb6686e99ab6538c6"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "d3237427c060742b9b724e0a65d57074c430f06d4f3dadf857ea5252602c8fe4"
 metafile = true
@@ -318,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "6485576ef1f09940a84fa1ecb86c68867d1ae8870041d6b622d9c1fb6989b6e2"
+metafile = true
+
+[[files]]
+file = "mods/liquid-burner.pw.toml"
+hash = "22d91ca96b26d5c70e68f263aba1f1ebb2d2389c8c493da310851ed341e157ff"
 metafile = true
 
 [[files]]
@@ -406,6 +416,11 @@ hash = "ead2bfc6e6fa3d1f1d82a7f4968ab2c8a712866d635d1875f02936f9ad8aef02"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "8515079e00355e8e6010a6a18b53e6f19593d19c649a84d02afe6ea4b5a7b9d8"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
 metafile = true
@@ -468,6 +483,16 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "a91400da1fd45c7c895c6b3289517cc85b53286cb00ea59b00e7489c7a4fb225"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d8fea7b65f0e5ce3e77bdc748bb114439859956ab74b7b0a10ec5286b5da4889"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "01517bbce0fa34ab1a08764bb169c532e9cb4e30df04b838d3e5935692a25491"
 metafile = true
 
 [[files]]
